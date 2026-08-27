@@ -1,0 +1,13 @@
+# Godot-specific imports and caches
+.import/
+.godot/
+*.tmp
+
+# Exported builds (if you export into these subfolders)
+build/
+dist/
+
+# Mono/C# specific ignores (if using the .NET version)
+.mono/
+data_*/
+mono_crash.*.json
