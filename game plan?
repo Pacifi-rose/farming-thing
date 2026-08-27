@@ -1,0 +1,25 @@
+1. SDG theme
+  a. SDG 13 - climate action
+  b. SDG 7 - affordable and clean energy?
+  c. SDG 2 - zero hunger?
+  d. Focus on SDG 13 to teach people how farmers are affected by climate change, but implement some other things
+2. Outline player mechanics
+  a. Plant crops
+  b. Sell crops
+  c. Buy
+    i. Seeds
+    ii. Tools
+  d. Build structures
+  e. Move (WASD)
+3. Gameplay 
+  a. Start with some land and some money, and earn enough money to buy land in a different “level” or part of the island
+  b. Levels / biomes
+    i. Drought
+    ii. Floods
+    iii. Heat
+    iv. Cold
+    v. Each biome has its own “solution” or how to work around it
+      1. Plants that can survive in those harsh environments
+      2. Structures you can build
+  c. Random generating
+    i. I want to make each time you play unique without affecting the gameplay too much
